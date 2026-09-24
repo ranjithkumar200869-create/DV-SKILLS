@@ -37,8 +37,6 @@ This task focuses on understanding and analyzing the Superstore Sales dataset us
 * Create a bar chart for sales by category.
 * Create a histogram for sales distribution.
 
-#VISULATION
-
 
 ##WEEK 2
 
@@ -78,8 +76,6 @@ This task focuses on analyzing the Superstore Sales dataset using Python.
 * Create a sales bar chart.
 * Create a sales distribution histogram.
 
-##VISULATION 
-
 
 
 ##WEEK 3
@@ -110,8 +106,6 @@ This task focuses on analyzing Apple stock data using Python and Pandas.
 * Find the top 10 positive Daily Delta values.
 * Calculate Daily Return percentage.
 * Find the top 10 highest Daily Returns.
-
-##VISULATION
 
 
 ##WEEK 4
@@ -146,8 +140,6 @@ This task focuses on analyzing and visualizing Apple stock data using Python.
 
 * Calculate 20-day and 50-day moving averages.
 * Plot the closing price with moving averages.
-
-  ##VISULATION
 
 
   ##WEEK 5
@@ -186,9 +178,6 @@ This task focuses on analyzing and cleaning the Healthcare dataset using Python.
 * Analyze Billing Amount.
 * Compare Medical Condition with Gender.
 
-##VISULATION
-
-
 ##WEEK 6
 
 # HEALTHCARE DATA ANALYSIS
@@ -225,9 +214,6 @@ This task focuses on analyzing and visualizing the Healthcare dataset using Pyth
 * Plot monthly admissions.
 * Display the correlation heatmap.
 
-##VISULATION
-
-
 ##WEEK 7
 
 # STUDENTS PERFORMANCE DATA ANALYSIS
@@ -255,5 +241,3 @@ This task focuses on cleaning and analyzing student performance data using Pytho
 * Calculate mean and median.
 * Calculate standard deviation.
 * Calculate quartiles for math, reading, and writing scores.
-
-##VISULATION
