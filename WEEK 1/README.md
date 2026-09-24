@@ -82,3 +82,9 @@ The Superstore dataset is explored, date columns are processed, delivery days ar
 * `superstore(2).ipynb` – Python/Google Colab notebook
 * `samplesuperstore.csv` – Superstore dataset
 * `README.md` – Project documentation
+
+## OUTPUT
+<img width="907" height="686" alt="image" src="https://github.com/user-attachments/assets/d0a04413-c6bc-4ba5-aedc-daa7e9f4b17d" />
+<img width="880" height="582" alt="image" src="https://github.com/user-attachments/assets/bc312bca-aa3b-4b66-9be5-6ce79c703760" />
+
+
