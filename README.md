@@ -1,4 +1,4 @@
-##WEEK 1
+# WEEK 1
 
 # SUPERSTORE SALES DATA ANALYSIS USING PYTHON
 
@@ -38,7 +38,7 @@ This task focuses on understanding and analyzing the Superstore Sales dataset us
 * Create a histogram for sales distribution.
 
 
-##WEEK 2
+# WEEK 2
 
 # SUPERSTORE SALES DATA ANALYSIS
 
@@ -77,8 +77,7 @@ This task focuses on analyzing the Superstore Sales dataset using Python.
 * Create a sales distribution histogram.
 
 
-
-##WEEK 3
+# WEEK 3
 
 # APPLE STOCK DATA ANALYSIS
 
@@ -108,7 +107,7 @@ This task focuses on analyzing Apple stock data using Python and Pandas.
 * Find the top 10 highest Daily Returns.
 
 
-##WEEK 4
+# WEEK 4
 
 # APPLE STOCK DATA VISUALIZATION
 
@@ -142,7 +141,7 @@ This task focuses on analyzing and visualizing Apple stock data using Python.
 * Plot the closing price with moving averages.
 
 
-  ##WEEK 5
+# WEEK 5
 
   # HEALTHCARE DATA ANALYSIS
 
@@ -178,7 +177,7 @@ This task focuses on analyzing and cleaning the Healthcare dataset using Python.
 * Analyze Billing Amount.
 * Compare Medical Condition with Gender.
 
-##WEEK 6
+# WEEK 6
 
 # HEALTHCARE DATA ANALYSIS
 
@@ -214,7 +213,7 @@ This task focuses on analyzing and visualizing the Healthcare dataset using Pyth
 * Plot monthly admissions.
 * Display the correlation heatmap.
 
-##WEEK 7
+# WEEK 7
 
 # STUDENTS PERFORMANCE DATA ANALYSIS
 
@@ -242,7 +241,7 @@ This task focuses on cleaning and analyzing student performance data using Pytho
 * Calculate standard deviation.
 * Calculate quartiles for math, reading, and writing scores.
 
-* WEEK 8
+# WEEK 8
 
 # Student Performance Analysis
 
@@ -265,8 +264,9 @@ The project focuses on cleaning student data and finding basic statistical value
 
 To understand student performance through simple data analysis and statistics.
 
-WEEK 9
-KC_HOUSE DATA SET USING PYTHON
+# WEEK 9
+
+# KC_HOUSE DATA SET USING PYTHON
 
 ## DESCRIPTION
 
