@@ -313,3 +313,28 @@ This task focuses on understanding, cleaning, and analyzing the KC House Sales d
 
 - Display the cleaned dataset and outlier details.
 - Save the cleaned data as `cleaned_kc_house_data.csv`.
+
+# WEEK 10
+
+# House Price Analysis
+
+## Description
+This project analyzes the King County House Sales dataset using Python.
+
+## Objective
+To visualize house prices and identify property value trends based on size, quality, condition, and location.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Visualizations
+- Scatter Plot
+- Box Plot
+- Geographic Price Plot
+- Correlation Heatmap
+
+## Conclusion
+This project helps understand house price patterns and supports real-estate analysis.
