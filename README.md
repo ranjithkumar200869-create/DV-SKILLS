@@ -264,3 +264,52 @@ The project focuses on cleaning student data and finding basic statistical value
 ### Purpose
 
 To understand student performance through simple data analysis and statistics.
+
+WEEK 9
+KC_HOUSE DATA SET USING PYTHON
+
+## DESCRIPTION
+
+This task focuses on understanding, cleaning, and analyzing the KC House Sales dataset using Python and Pandas.
+
+## OBJECTIVES
+
+- Load and inspect the dataset.
+- Handle missing values and invalid zero room counts.
+- Convert Sale Date into datetime format.
+- Calculate House Age and Years Since Renovation.
+- Calculate Price per Square Foot for living area and lot size.
+- Identify house price outliers using box plots and the IQR method.
+
+## WORKFLOW
+
+**1. Load and Explore the Dataset**
+
+- Load the CSV file using Pandas.
+- Use `head()`, `info()`, and `describe()`.
+- Check dataset shape and column names.
+
+**2. Data Cleaning**
+
+- Handle missing values.
+- Replace invalid zero values in bedroom and bathroom counts.
+- Remove duplicate records.
+- Convert Sale Date into datetime format.
+
+**3. Feature Engineering**
+
+- Calculate House Age.
+- Calculate Years Since Renovation.
+- Calculate Price per Square Foot for living area.
+- Calculate Price per Square Foot for lot size.
+
+**4. Outlier Detection**
+
+- Create a box plot for house prices.
+- Calculate Q1, Q3, and IQR.
+- Identify potential extreme price values using statistical bounds.
+
+**5. Output**
+
+- Display the cleaned dataset and outlier details.
+- Save the cleaned data as `cleaned_kc_house_data.csv`.
